@@ -76,7 +76,7 @@ You can add as many palettes as you like or just make your own.
 
 ## Author
 
-[Your Name or Username]
+[booknite]
 
 ## License
 
@@ -84,6 +84,6 @@ This project is licensed under the MIT License.
 
 ## Note
 
-While this tool works best with sprite images and icons, it can also process higher resolution images. However, the results may vary for more complex, high-resolution images.
+Sprite Mixer works best with pixelated images, icons, and sprites. It can also handle higher resolution images, but the results may not be as good.
 
-This tool is particularly useful for Linux enthusiasts who enjoy customizing their desktop environments ("ricing"). It allows for quick and easy color adjustments to make images match your chosen theme or color scheme.
+Simply put, this tool just allows for quick and easy color adjustments to make images match your chosen theme or color scheme when ricing your distro.
